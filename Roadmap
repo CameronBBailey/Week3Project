@@ -1,0 +1,38 @@
+
+
+Inflow
+    Rent
+        Between .8% and 1.1% of Home value Use 1 %
+    Asset Appreciation
+        Average 3.5 - 3.8% per Year 
+        New value - selling fees - taxes
+
+Outflow
+    Property Tax
+        Differs based on location - Save in txt file? 
+        Function to search
+    Advertising - Marketing
+        Average rate .5% - 1%
+        
+    Insurance 
+        Average - 1,481$/Year
+        Class level Constant for now, maybe state level search later
+    Utilites OMEGALOL THE TENETS PAY FOR THIS
+        gas
+        electric
+        water
+    Mortgage Function
+        Total Mortgage = Property Value + Closing Costs
+        3.625 – 3.875% APR interest For 30 Year fixed 
+        Mortgage payment = (P * r(1 + r)**n) / (1 + r)**(n-1)
+        r = monthly interest rate  :  n = 360 payments
+    HOA
+        200-300 per month, can be 100-1000
+    Repairs
+    maintenance 
+        50% Rule, 50% or rent used for maintenance AND REPAIRS 
+    Vacancy 
+        6.2% average
+    Legal Fees
+    Property management Fees
+    Renovations
